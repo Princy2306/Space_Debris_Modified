@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# C++ build files
+*.o
+*.out
+*.exe
+
+# VS Code
+.vscode/
+
+# Build directories
+build/
