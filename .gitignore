@@ -11,3 +11,6 @@
 
 # Build directories
 build/
+
+# Compiled executable
+space_debris
